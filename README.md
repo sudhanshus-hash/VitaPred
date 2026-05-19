@@ -12,7 +12,7 @@ Web Server: https://webs.iiitd.edu.in/raghava/vitapred/
 Panwar, B., Gupta, S., and Raghava, G. P. S. Prediction of vitamin interacting residues in a vitamin binding protein using evolutionary information. BMC Bioinformatics, 14, 44, 2013.
 https://doi.org/10.1186/1471-2105-14-44
 
-This tool and dataset is also available on Zenodo at 
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20280786
 
 
 ## About the Research
