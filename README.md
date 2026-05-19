@@ -4,7 +4,7 @@ VitaPred is a computational tool developed for predicting vitamin-interacting re
 
 Vitamins act as important cofactors in many enzymatic reactions. Identification of vitamin-binding residues can help in understanding enzyme activity, vitamin-protein interactions, and drug target development. VitaPred uses evolutionary information and machine learning models to predict residues interacting with vitamins and vitamin subclasses.
 
-Web Server: https://webs.iiitd.edu.in/raghava/vaxinpad/protein.php
+Web Server: https://webs.iiitd.edu.in/raghava/vitapred/
 
 
 ## Citation
